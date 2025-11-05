@@ -4,4 +4,3 @@ numpy
 Pillow
 tensorflow
 gunicorn
-tflite-runtime
