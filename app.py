@@ -123,12 +123,8 @@ def scale_nutrients(entry, multiplier=1.0, grams=None):
 # --- Routes
 @app.route("/", methods=["GET"])
 def root():
-    return jsonify({
-        "message": "Flask Render is Running!",
-        "model_mode": "real" if INTERPRETER_AVAILABLE else "no-model",
-        "labels_loaded": len(LABELS),
-        "endpoints": ["/predict", "/health"]
-    })
+    return "Render x Flask Running!", 200
+
 
 @app.route("/health", methods=["GET"])
 def health():
