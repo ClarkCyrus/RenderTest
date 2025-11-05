@@ -8,7 +8,7 @@ MODEL_PATH = os.getenv("MODEL_PATH", "model.tflite")
 LABELS_PATH = os.getenv("LABELS_PATH", "labels.txt")
 NUTRIENTS_PATH = os.getenv("NUTRIENTS_PATH", "nutrients.json")
 NUTRIENTS_TEMPLATE_PATH = os.getenv("NUTRIENTS_TEMPLATE_PATH", "nutrients_template.json")
-PORT = int(os.getenv("PORT", 8000))
+PORT = int(os.getenv("PORT", 5000))
 
 app = Flask(__name__)
 CORS(app)
@@ -255,4 +255,4 @@ def predict():
         return render_index(result), 200
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=PORT, debug=True)
+    app.run(host="0.0.0.0", port=PORT, debug=True)
