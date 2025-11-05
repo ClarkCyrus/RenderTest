@@ -1,5 +1,7 @@
 Flask
+flask-cors
 numpy
 Pillow
 tensorflow
 gunicorn
+tflite-runtime
