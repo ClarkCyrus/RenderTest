@@ -120,61 +120,15 @@ def scale_nutrients(entry, multiplier=1.0, grams=None):
         "fiber_g": round((base.get("fiber_g") or 0.0) * factor, 2)
     }
 
-# --- Minimal HTML UI
-INDEX_HTML = """<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Flask Food Inference</title>
-    <style>
-      body {{ font-family: Arial, sans-serif; margin: 24px; }}
-      .box {{ max-width:720px; }}
-      pre {{ background:#f4f4f4; padding:12px; border-radius:6px; overflow:auto; }}
-      label {{ display:block; margin-top:8px; }}
-    </style>
-  </head>
-  <body>
-    <div class="box">
-      <h2>Flask Food Inference</h2>
-      <p>Labels loaded: {labels_count}. Model mode: {model_mode}.</p>
-      <form method="post" action="/predict" enctype="multipart/form-data">
-        <label>Select image to upload:</label>
-        <input type="file" name="file" accept="image/*" required>
-        <label>Portion multiplier (e.g., 1.0 = one serving):</label>
-        <input type="number" step="0.1" min="0.1" name="mult" value="1.0">
-        <label>Or enter grams (overrides multiplier):</label>
-        <input type="number" step="1" min="1" name="grams" placeholder="grams">
-        <br><br>
-        <button type="submit">Upload & Predict</button>
-      </form>
-      <hr>
-      <div id="result">{result_block}</div>
-      <hr>
-      <p>Provide labels.txt (one label per line) at the project root. Provide nutrients.json to enable nutrient reporting. A template may have been created at {template_path}.</p>
-    </div>
-  </body>
-</html>"""
-
-def render_index(result_json=None):
-    if result_json is None:
-        block = "<p>No prediction yet.</p>"
-    else:
-        pretty = json.dumps(result_json, indent=2)
-        pretty = pretty.replace("<", "&lt;").replace(">", "&gt;")
-        block = f"<h3>Prediction result</h3><pre>{pretty}</pre>"
-    html = INDEX_HTML.replace("{result_block}", block)
-    html = html.replace("{labels_count}", str(len(LABELS)))
-    html = html.replace("{model_mode}", "real" if INTERPRETER_AVAILABLE else "no-model")
-    html = html.replace("{template_path}", NUTRIENTS_TEMPLATE_PATH)
-    return html
-
 # --- Routes
 @app.route("/", methods=["GET"])
-def index():
-    if not LABELS:
-        msg = "<p><strong>labels.txt is missing or empty.</strong> Place a labels.txt file (one label per line) in the project root and reload.</p>"
-        return INDEX_HTML.replace("{result_block}", msg).replace("{labels_count}", "0").replace("{model_mode}", "no-model").replace("{template_path}", NUTRIENTS_TEMPLATE_PATH), 200
-    return render_index(), 200
+def root():
+    return jsonify({
+        "message": "Flask Render is Running!",
+        "model_mode": "real" if INTERPRETER_AVAILABLE else "no-model",
+        "labels_loaded": len(LABELS),
+        "endpoints": ["/predict", "/health"]
+    })
 
 @app.route("/health", methods=["GET"])
 def health():
