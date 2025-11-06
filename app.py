@@ -24,33 +24,20 @@ else:
     LABELS = []
 
 # --- Load nutrients.json if present; otherwise create a template file with default fields
+# --- Load nutrients_template.json instead of nutrients.json
+# --- Load nutrients_template.json only (no auto-create)
 NUTRIENTS = {}
-if os.path.exists(NUTRIENTS_PATH):
+
+if os.path.exists(NUTRIENTS_TEMPLATE_PATH):
     try:
-        with open(NUTRIENTS_PATH, "r", encoding="utf-8") as f:
+        with open(NUTRIENTS_TEMPLATE_PATH, "r", encoding="utf-8") as f:
             NUTRIENTS = json.load(f)
+        print(f"Loaded nutrient data from {NUTRIENTS_TEMPLATE_PATH} ({len(NUTRIENTS)} items).")
     except Exception as e:
-        print("Failed to load nutrients.json:", str(e))
+        print(f"Failed to load {NUTRIENTS_TEMPLATE_PATH}: {e}")
         NUTRIENTS = {}
 else:
-    # create a template mapping only if labels are available
-    if LABELS:
-        template = {}
-        for lbl in LABELS:
-            template[lbl] = {
-                "serving_g": None,
-                "per_serving": {"kcal": None, "protein_g": None, "fat_g": None, "carbs_g": None, "fiber_g": None},
-                "per_100g": {"kcal": None, "protein_g": None, "fat_g": None, "carbs_g": None, "fiber_g": None},
-                "notes": "Fill values or replace with verified nutrients.json"
-            }
-        try:
-            with open(NUTRIENTS_TEMPLATE_PATH, "w", encoding="utf-8") as f:
-                json.dump(template, f, indent=2, ensure_ascii=False)
-            print(f"Wrote nutrients template to {NUTRIENTS_TEMPLATE_PATH}. Fill values and save as {NUTRIENTS_PATH} to enable nutrient reporting.")
-        except Exception as e:
-            print("Failed to write nutrients template:", str(e))
-    else:
-        print("No labels.txt present; nutrients template not created.")
+    print(f"No {NUTRIENTS_TEMPLATE_PATH} found; nutrient lookup disabled.")
 
 # --- TFLite interpreter setup (real inference if model.tflite is present)
 INTERPRETER_AVAILABLE = False

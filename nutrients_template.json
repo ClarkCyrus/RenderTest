@@ -1,291 +1,179 @@
 {
   "apple_pie": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 237.0,
+      "protein_g": 2.4,
+      "fat_g": 11.6,
+      "carbs_g": 34.1,
+      "fiber_g": 1.9
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 1097533 - apple pie, commercially prepared"
   },
   "baby_back_ribs": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 292.0,
+      "protein_g": 23.1,
+      "fat_g": 21.4,
+      "carbs_g": 0.0,
+      "fiber_g": 0.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 172002 - pork ribs, baby back, roasted"
   },
   "baklava": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 430.0,
+      "protein_g": 7.0,
+      "fat_g": 27.0,
+      "carbs_g": 43.0,
+      "fiber_g": 2.3
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2342215 - baklava, commercial"
   },
   "beef_carpaccio": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 122.0,
+      "protein_g": 21.0,
+      "fat_g": 4.0,
+      "carbs_g": 0.0,
+      "fiber_g": 0.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Estimated from USDA lean raw beef tenderloin"
   },
   "beef_tartare": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 143.0,
+      "protein_g": 20.0,
+      "fat_g": 6.0,
+      "carbs_g": 0.0,
+      "fiber_g": 0.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 173464 - raw ground beef lean, prepared tartare-style"
   },
   "beet_salad": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 68.0,
+      "protein_g": 1.8,
+      "fat_g": 3.4,
+      "carbs_g": 8.5,
+      "fiber_g": 2.3
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2342579 - beet salad with dressing"
   },
   "beignets": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 434.0,
+      "protein_g": 6.9,
+      "fat_g": 25.9,
+      "carbs_g": 44.6,
+      "fiber_g": 1.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2341881 - beignet, fried dough pastry"
   },
   "bibimbap": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 135.0,
+      "protein_g": 6.1,
+      "fat_g": 4.3,
+      "carbs_g": 15.7,
+      "fiber_g": 1.6
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2341429 - bibimbap, Korean mixed rice bowl"
   },
   "bread_pudding": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 153.0,
+      "protein_g": 4.6,
+      "fat_g": 6.2,
+      "carbs_g": 20.6,
+      "fiber_g": 0.7
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2342437 - bread pudding with sauce"
   },
   "breakfast_burrito": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 238.0,
+      "protein_g": 11.5,
+      "fat_g": 13.3,
+      "carbs_g": 17.1,
+      "fiber_g": 1.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2342541 - breakfast burrito, egg and cheese"
   },
   "bruschetta": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 184.0,
+      "protein_g": 5.3,
+      "fat_g": 8.7,
+      "carbs_g": 22.3,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2341918 - bruschetta with tomato and olive oil"
   },
   "caesar_salad": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 190.0,
+      "protein_g": 4.6,
+      "fat_g": 14.0,
+      "carbs_g": 10.3,
+      "fiber_g": 1.7
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2341895 - caesar salad with dressing and croutons"
   },
   "cannoli": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 339.0,
+      "protein_g": 7.8,
+      "fat_g": 18.0,
+      "carbs_g": 38.0,
+      "fiber_g": 1.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2342085 - cannoli, Italian pastry"
   },
   "caprese_salad": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 143.0,
+      "protein_g": 6.1,
+      "fat_g": 10.6,
+      "carbs_g": 4.3,
+      "fiber_g": 0.7
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2341459 - caprese salad with mozzarella and tomato"
   },
   "carrot_cake": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 413.0,
+      "protein_g": 4.7,
+      "fat_g": 22.3,
+      "carbs_g": 49.0,
+      "fiber_g": 1.5
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 1104127 - carrot cake with frosting"
   },
   "ceviche": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 90.0,
+      "protein_g": 13.0,
+      "fat_g": 2.5,
+      "carbs_g": 3.7,
+      "fiber_g": 0.5
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "USDA FDC 2341771 - ceviche, fish-based"
   },
   "cheesecake": {
     "serving_g": null,
