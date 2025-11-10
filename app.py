@@ -68,12 +68,24 @@ def preprocess_pil(img):
     else:
         h, w = 224, 224
     img = img.resize((w, h)).convert("RGB")
-    arr = np.asarray(img).astype(np.float32) / 255.0
+    arr = np.asarray(img).astype(np.float32)   # KEEP 0..255 numeric range
+
+    # If you trained with 0..1 instead, set env MODEL_INPUT_RANGE="0_1"
+    if os.getenv("MODEL_INPUT_RANGE", "0_255") == "0_1":
+        arr = arr / 255.0
+
     arr = np.expand_dims(arr, 0)
+
+    # TFLite uint8 handling (not your current case but kept for safety)
     if INTERPRETER_AVAILABLE and input_det is not None and input_det['dtype'] == np.uint8:
         q = input_det.get('quantization', (1.0, 0))
         scale, zp = q if len(q) == 2 else (1.0, 0)
         arr = (arr / scale + zp).astype(np.uint8)
+
+    # float16 cast if interpreter expects float16
+    if INTERPRETER_AVAILABLE and input_det is not None and input_det['dtype'] == np.float16:
+        arr = arr.astype(np.float16)
+
     return arr
 
 def run_inference(img_bytes):
