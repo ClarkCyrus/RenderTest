@@ -2,1707 +2,1108 @@
   "apple_pie": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 237.0,
-      "protein_g": 2.4,
-      "fat_g": 11.6,
-      "carbs_g": 34.1,
-      "fiber_g": 1.9
+      "kcal": 60.13,
+      "protein_g": 0.46,
+      "fat_g": 0.21,
+      "carbs_g": 14.1,
+      "fiber_g": 0.94
     },
-    "notes": "USDA FDC 1097533 - apple pie, commercially prepared"
+    "notes": "Matched to: Pineapple, raw (FDC ID: 2346398)"
   },
   "baby_back_ribs": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 292.0,
-      "protein_g": 23.1,
-      "fat_g": 21.4,
-      "carbs_g": 0.0,
-      "fiber_g": 0.0
+      "kcal": 150.65,
+      "protein_g": 24.4,
+      "fat_g": 1.45,
+      "carbs_g": 10.0,
+      "fiber_g": 4.2
     },
-    "notes": "USDA FDC 172002 - pork ribs, baby back, roasted"
+    "notes": "Matched to: Beans, Dry, Black (0% moisture) (FDC ID: 747444)"
   },
   "baklava": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 430.0,
-      "protein_g": 7.0,
-      "fat_g": 27.0,
-      "carbs_g": 43.0,
-      "fiber_g": 2.3
+      "kcal": 357.29,
+      "protein_g": 0.92,
+      "fat_g": 0.49,
+      "carbs_g": 87.3,
+      "fiber_g": 4.83
     },
-    "notes": "USDA FDC 2342215 - baklava, commercial"
+    "notes": "Matched to: Flour, cassava (FDC ID: 2512377)"
   },
   "beef_carpaccio": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 122.0,
-      "protein_g": 21.0,
-      "fat_g": 4.0,
-      "carbs_g": 0.0,
-      "fiber_g": 0.0
+      "kcal": 44.62,
+      "protein_g": 1.69,
+      "fat_g": 0.3,
+      "carbs_g": 8.79,
+      "fiber_g": 3.12
     },
-    "notes": "Estimated from USDA lean raw beef tenderloin"
+    "notes": "Matched to: Beets, raw (FDC ID: 2685576)"
   },
   "beef_tartare": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 143.0,
-      "protein_g": 20.0,
-      "fat_g": 6.0,
-      "carbs_g": 0.0,
-      "fiber_g": 0.0
+      "kcal": 44.62,
+      "protein_g": 1.69,
+      "fat_g": 0.3,
+      "carbs_g": 8.79,
+      "fiber_g": 3.12
     },
-    "notes": "USDA FDC 173464 - raw ground beef lean, prepared tartare-style"
+    "notes": "Matched to: Beets, raw (FDC ID: 2685576)"
   },
   "beet_salad": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 68.0,
-      "protein_g": 1.8,
-      "fat_g": 3.4,
-      "carbs_g": 8.5,
-      "fiber_g": 2.3
-    },
-    "notes": "USDA FDC 2342579 - beet salad with dressing"
+      "kcal": 38,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "carbs_g": 7.5,
+      "fiber_g": 2.8
+    }
   },
   "beignets": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 434.0,
-      "protein_g": 6.9,
-      "fat_g": 25.9,
-      "carbs_g": 44.6,
-      "fiber_g": 1.4
+      "kcal": 44.62,
+      "protein_g": 1.69,
+      "fat_g": 0.3,
+      "carbs_g": 8.79,
+      "fiber_g": 3.12
     },
-    "notes": "USDA FDC 2341881 - beignet, fried dough pastry"
+    "notes": "Matched to: Beets, raw (FDC ID: 2685576)"
   },
   "bibimbap": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 135.0,
-      "protein_g": 6.1,
-      "fat_g": 4.3,
-      "carbs_g": 15.7,
-      "fiber_g": 1.6
+      "kcal": 63.99,
+      "protein_g": 0.7,
+      "fat_g": 0.31,
+      "carbs_g": 14.6,
+      "fiber_g": 2.0
     },
-    "notes": "USDA FDC 2341429 - bibimbap, Korean mixed rice bowl"
+    "notes": "Matched to: Blueberries, raw (FDC ID: 2346411)"
   },
   "bread_pudding": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 153.0,
-      "protein_g": 4.6,
-      "fat_g": 6.2,
-      "carbs_g": 20.6,
-      "fiber_g": 0.7
+      "kcal": 144.4,
+      "protein_g": 23.4,
+      "fat_g": 1.2,
+      "carbs_g": 10.0,
+      "fiber_g": 4.1
     },
-    "notes": "USDA FDC 2342437 - bread pudding with sauce"
+    "notes": "Matched to: Beans, Dry, Pink (0% moisture) (FDC ID: 747439)"
   },
   "breakfast_burrito": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 238.0,
-      "protein_g": 11.5,
-      "fat_g": 13.3,
-      "carbs_g": 17.1,
-      "fiber_g": 1.4
+      "kcal": 57.35,
+      "protein_g": 1.01,
+      "fat_g": 0.19,
+      "carbs_g": 12.9,
+      "fiber_g": 2.0
     },
-    "notes": "USDA FDC 2342541 - breakfast burrito, egg and cheese"
+    "notes": "Matched to: Raspberries, raw (FDC ID: 2346410)"
   },
   "bruschetta": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 184.0,
-      "protein_g": 5.3,
-      "fat_g": 8.7,
-      "carbs_g": 22.3,
-      "fiber_g": 2.0
+      "kcal": 384.92,
+      "protein_g": 5.29,
+      "fat_g": 4.64,
+      "carbs_g": 80.5,
+      "fiber_g": 8.71
     },
-    "notes": "USDA FDC 2341918 - bruschetta with tomato and olive oil"
+    "notes": "Matched to: Flour, chestnut (FDC ID: 2515377)"
   },
   "caesar_salad": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 190.0,
-      "protein_g": 4.6,
-      "fat_g": 14.0,
-      "carbs_g": 10.3,
-      "fiber_g": 1.7
-    },
-    "notes": "USDA FDC 2341895 - caesar salad with dressing and croutons"
+      "kcal": 150,
+      "protein_g": 3.0,
+      "fat_g": 12.0,
+      "carbs_g": 8.0,
+      "fiber_g": 1.0
+    }
   },
   "cannoli": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 339.0,
-      "protein_g": 7.8,
-      "fat_g": 18.0,
-      "carbs_g": 38.0,
-      "fiber_g": 1.0
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "notes": "USDA FDC 2342085 - cannoli, Italian pastry"
+    "notes": "Matched to: Oil, canola (FDC ID: 748278)"
   },
   "caprese_salad": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 143.0,
-      "protein_g": 6.1,
-      "fat_g": 10.6,
-      "carbs_g": 4.3,
-      "fiber_g": 0.7
+      "kcal": 39.0,
+      "protein_g": 1.06,
+      "fat_g": 0.28,
+      "carbs_g": 9.18,
+      "fiber_g": 1.5
     },
-    "notes": "USDA FDC 2341459 - caprese salad with mozzarella and tomato"
+    "notes": "Matched to: Nectarines, raw (FDC ID: 327357)"
   },
   "carrot_cake": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 413.0,
-      "protein_g": 4.7,
-      "fat_g": 22.3,
-      "carbs_g": 49.0,
-      "fiber_g": 1.5
+      "kcal": 48.11,
+      "protein_g": 0.94,
+      "fat_g": 0.35,
+      "carbs_g": 10.3,
+      "fiber_g": 3.1
     },
-    "notes": "USDA FDC 1104127 - carrot cake with frosting"
+    "notes": "Matched to: Carrots, mature, raw (FDC ID: 2258586)"
   },
   "ceviche": {
     "serving_g": 100,
     "per_serving": {
-      "kcal": 90.0,
-      "protein_g": 13.0,
-      "fat_g": 2.5,
-      "carbs_g": 3.7,
-      "fiber_g": 0.5
+      "kcal": 343.68,
+      "protein_g": 2.02,
+      "fat_g": 35.6,
+      "carbs_g": 3.8,
+      "fiber_g": 2.0
     },
-    "notes": "USDA FDC 2341771 - ceviche, fish-based"
+    "notes": "Matched to: Cream, heavy (FDC ID: 2346386)"
   },
   "cheesecake": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 1710.0,
+      "protein_g": 23.3,
+      "fat_g": 34.0,
+      "carbs_g": 2.44,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cheese, cheddar (FDC ID: 328637)"
   },
   "cheese_plate": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 1760.0,
+      "protein_g": 29.6,
+      "fat_g": 28.0,
+      "carbs_g": 12.4,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cheese, parmesan, grated (FDC ID: 325036)"
   },
   "chicken_curry": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 138.28,
+      "protein_g": 22.8,
+      "fat_g": 5.48,
+      "carbs_g": -0.56,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Pork, chop, center cut, raw (FDC ID: 2727575)"
   },
   "chicken_quesadilla": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 136.04,
+      "protein_g": 17.9,
+      "fat_g": 7.16,
+      "carbs_g": 0.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Chicken, ground, with additives, raw (FDC ID: 2514746)"
   },
   "chicken_wings": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 167.16,
+      "protein_g": 18.4,
+      "fat_g": 10.6,
+      "carbs_g": -0.46,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Chicken, wing, meat and skin, raw (FDC ID: 2727568)"
   },
   "chocolate_cake": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+      "kcal": 370.53,
+      "protein_g": 5.26,
+      "fat_g": 15.05,
+      "carbs_g": 53.37,
+      "fiber_g": 1.58
+    }
   },
   "chocolate_mousse": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 48.11,
+      "protein_g": 0.94,
+      "fat_g": 0.35,
+      "carbs_g": 10.3,
+      "fiber_g": 3.1
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Carrots, mature, raw (FDC ID: 2258586)"
   },
   "churros": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 40.82,
+      "protein_g": 0.81,
+      "fat_g": 0.14,
+      "carbs_g": 9.08,
+      "fiber_g": 2.69
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Carrots, baby, raw (FDC ID: 2258587)"
   },
   "clam_chowder": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 343.68,
+      "protein_g": 2.02,
+      "fat_g": 35.6,
+      "carbs_g": 3.8,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cream, heavy (FDC ID: 2346386)"
   },
   "club_sandwich": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 621.4,
+      "protein_g": 26.2,
+      "fat_g": 50.2,
+      "carbs_g": 16.2,
+      "fiber_g": 9.27
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, almond (FDC ID: 2261420)"
   },
   "crab_cakes": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 357.29,
+      "protein_g": 0.92,
+      "fat_g": 0.49,
+      "carbs_g": 87.3,
+      "fiber_g": 4.83
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, cassava (FDC ID: 2512377)"
   },
   "creme_brulee": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 343.68,
+      "protein_g": 2.02,
+      "fat_g": 35.6,
+      "carbs_g": 3.8,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cream, heavy (FDC ID: 2346386)"
   },
   "croque_madame": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 343.68,
+      "protein_g": 2.02,
+      "fat_g": 35.6,
+      "carbs_g": 3.8,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cream, heavy (FDC ID: 2346386)"
   },
   "cup_cakes": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 357.29,
+      "protein_g": 0.92,
+      "fat_g": 0.49,
+      "carbs_g": 87.3,
+      "fiber_g": 4.83
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, cassava (FDC ID: 2512377)"
   },
   "deviled_eggs": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 375.31,
+      "protein_g": 10.0,
+      "fat_g": 4.19,
+      "carbs_g": 74.4,
+      "fiber_g": 2.62
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Millet, whole grain (FDC ID: 2512379)"
   },
   "donuts": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Oil, peanut (FDC ID: 1750348)"
   },
   "dumplings": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 136.65,
+      "protein_g": 1.16,
+      "fat_g": 0.89,
+      "carbs_g": 31.0,
+      "fiber_g": 2.12
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Plantains, ripe, raw (FDC ID: 2710817)"
   },
   "edamame": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 343.68,
+      "protein_g": 2.02,
+      "fat_g": 35.6,
+      "carbs_g": 3.8,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cream, heavy (FDC ID: 2346386)"
   },
   "eggs_benedict": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 575.0,
+      "protein_g": 48.1,
+      "fat_g": 39.8,
+      "carbs_g": 1.87,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Egg, whole, dried (FDC ID: 329490)"
   },
   "escargots": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 40.82,
+      "protein_g": 0.81,
+      "fat_g": 0.14,
+      "carbs_g": 9.08,
+      "fiber_g": 2.69
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Carrots, baby, raw (FDC ID: 2258587)"
   },
   "falafel": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 366.53,
+      "protein_g": 8.72,
+      "fat_g": 2.45,
+      "carbs_g": 77.4,
+      "fiber_g": 12.8
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, barley (FDC ID: 2512376)"
   },
   "filet_mignon": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 545.3,
+      "protein_g": 18.0,
+      "fat_g": 37.3,
+      "carbs_g": 34.4,
+      "fiber_g": 23.1
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flaxseed, ground (FDC ID: 2262075)"
   },
   "fish_and_chips": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 70.43,
+      "protein_g": 16.1,
+      "fat_g": 0.67,
+      "carbs_g": 0.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Fish, cod, Atlantic, wild caught, raw (FDC ID: 2684444)"
   },
   "foie_gras": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 31.0,
+      "protein_g": 2.57,
+      "fat_g": 0.34,
+      "carbs_g": 6.27,
+      "fiber_g": 2.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Broccoli, raw (FDC ID: 747447)"
   },
   "french_fries": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 357.76,
+      "protein_g": 13.3,
+      "fat_g": 1.84,
+      "carbs_g": 72.0,
+      "fiber_g": 3.68
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, semolina, fine (FDC ID: 2003589)"
   },
   "french_onion_soup": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 260.0,
+      "protein_g": 8.88,
+      "fat_g": 13.6,
+      "carbs_g": 25.5,
+      "fiber_g": 1.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Restaurant, Chinese, sweet and sour pork (FDC ID: 746774)"
   },
   "french_toast": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 27.6,
+      "protein_g": 2.91,
+      "fat_g": 0.6,
+      "carbs_g": 2.64,
+      "fiber_g": 1.59
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Spinach, mature (FDC ID: 1999633)"
   },
   "fried_calamari": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 357.29,
+      "protein_g": 0.92,
+      "fat_g": 0.49,
+      "carbs_g": 87.3,
+      "fiber_g": 4.83
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, cassava (FDC ID: 2512377)"
   },
   "fried_rice": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 249.0,
+      "protein_g": 3.3,
+      "fat_g": 0.92,
+      "carbs_g": 63.9,
+      "fiber_g": 9.8
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Figs, dried, uncooked (FDC ID: 746768)"
   },
   "frozen_yogurt": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 153.0,
+      "protein_g": 0.81,
+      "fat_g": 0.47,
+      "carbs_g": 7.92,
+      "fiber_g": 3.2
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Carrots, frozen, unprepared (FDC ID: 746764)"
   },
   "garlic_bread": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 597.0,
+      "protein_g": 6.62,
+      "fat_g": 0.38,
+      "carbs_g": 28.2,
+      "fiber_g": 2.7
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Garlic, raw (FDC ID: 1104647)"
   },
   "gnocchi": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 31.0,
+      "protein_g": 2.57,
+      "fat_g": 0.34,
+      "carbs_g": 6.27,
+      "fiber_g": 2.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Broccoli, raw (FDC ID: 747447)"
   },
   "greek_salad": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 787.8,
+      "protein_g": 2.0,
+      "fat_g": 82.2,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Butter, stick, salted (FDC ID: 790508)"
   },
   "grilled_cheese_sandwich": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 1640.0,
+      "protein_g": 27.0,
+      "fat_g": 31.0,
+      "carbs_g": 1.44,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cheese, swiss (FDC ID: 746767)"
   },
   "grilled_salmon": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 621.4,
+      "protein_g": 26.2,
+      "fat_g": 50.2,
+      "carbs_g": 16.2,
+      "fiber_g": 9.27
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, almond (FDC ID: 2261420)"
   },
   "guacamole": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Oil, canola (FDC ID: 748278)"
   },
   "gyoza": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "⚠️ No close match found — used logical estimates"
   },
   "hamburger": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 27.6,
+      "protein_g": 2.91,
+      "fat_g": 0.6,
+      "carbs_g": 2.64,
+      "fiber_g": 1.59
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Spinach, mature (FDC ID: 1999633)"
   },
   "hot_and_sour_soup": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 260.0,
+      "protein_g": 8.88,
+      "fat_g": 13.6,
+      "carbs_g": 25.5,
+      "fiber_g": 1.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Restaurant, Chinese, sweet and sour pork (FDC ID: 746774)"
   },
   "hot_dog": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 374.99,
+      "protein_g": 8.27,
+      "fat_g": 3.59,
+      "carbs_g": 77.4,
+      "fiber_g": 6.02
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, sorghum (FDC ID: 2512373)"
   },
   "huevos_rancheros": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 229.0,
+      "protein_g": 7.35,
+      "fat_g": 17.1,
+      "carbs_g": 14.9,
+      "fiber_g": 5.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Hummus, commercial (FDC ID: 321358)"
   },
   "hummus": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 229.0,
+      "protein_g": 7.35,
+      "fat_g": 17.1,
+      "carbs_g": 14.9,
+      "fiber_g": 5.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Hummus, commercial (FDC ID: 321358)"
   },
   "ice_cream": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 597.0,
+      "protein_g": 6.62,
+      "fat_g": 0.38,
+      "carbs_g": 28.2,
+      "fiber_g": 2.7
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Garlic, raw (FDC ID: 1104647)"
   },
   "lasagna": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 357.29,
+      "protein_g": 0.92,
+      "fat_g": 0.49,
+      "carbs_g": 87.3,
+      "fiber_g": 4.83
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, cassava (FDC ID: 2512377)"
   },
   "lobster_bisque": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 357.84,
+      "protein_g": 8.88,
+      "fat_g": 2.48,
+      "carbs_g": 75.0,
+      "fiber_g": 10.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, buckwheat (FDC ID: 2512374)"
   },
   "lobster_roll_sandwich": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 384.16,
+      "protein_g": 13.2,
+      "fat_g": 6.24,
+      "carbs_g": 68.8,
+      "fiber_g": 7.21
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, amaranth (FDC ID: 2512371)"
   },
   "macaroni_and_cheese": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 342.9,
+      "protein_g": 5.79,
+      "fat_g": 33.5,
+      "carbs_g": 4.56,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cream cheese, full fat, block (FDC ID: 2346385)"
   },
   "macarons": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 39.0,
+      "protein_g": 1.06,
+      "fat_g": 0.28,
+      "carbs_g": 9.18,
+      "fiber_g": 1.5
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Nectarines, raw (FDC ID: 327357)"
   },
   "miso_soup": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 158.92,
+      "protein_g": 19.9,
+      "fat_g": 8.88,
+      "carbs_g": -0.15,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Bison, ground, raw (FDC ID: 2727571)"
   },
   "mussels": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 41.07,
+      "protein_g": 2.9,
+      "fat_g": 0.19,
+      "carbs_g": 6.94,
+      "fiber_g": 2.85
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, oyster (FDC ID: 1999627)"
   },
   "nachos": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 26.62,
+      "protein_g": 2.85,
+      "fat_g": 0.62,
+      "carbs_g": 2.41,
+      "fiber_g": 1.56
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Spinach, baby (FDC ID: 1999632)"
   },
   "omelette": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Oil, peanut (FDC ID: 1750348)"
   },
   "onion_rings": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 186.0,
+      "protein_g": 0.94,
+      "fat_g": 0.1,
+      "carbs_g": 9.93,
+      "fiber_g": 2.2
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Onions, red, raw (FDC ID: 790577)"
   },
   "oysters": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 41.07,
+      "protein_g": 2.9,
+      "fat_g": 0.19,
+      "carbs_g": 6.94,
+      "fiber_g": 2.85
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, oyster (FDC ID: 1999627)"
   },
   "pad_thai": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 588.5,
+      "protein_g": 23.2,
+      "fat_g": 43.3,
+      "carbs_g": 26.5,
+      "fiber_g": 8.01
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Peanuts, raw (FDC ID: 2515376)"
   },
   "paella": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 174.0,
+      "protein_g": 0.91,
+      "fat_g": 0.27,
+      "carbs_g": 10.1,
+      "fiber_g": 1.5
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Peaches, yellow, raw (FDC ID: 325430)"
   },
   "pancakes": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 39.0,
+      "protein_g": 1.06,
+      "fat_g": 0.28,
+      "carbs_g": 9.18,
+      "fiber_g": 1.5
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Nectarines, raw (FDC ID: 327357)"
   },
   "panna_cotta": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 631.4,
+      "protein_g": 24.0,
+      "fat_g": 49.4,
+      "carbs_g": 22.7,
+      "fiber_g": 6.32
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Peanut butter, creamy (FDC ID: 2262072)"
   },
   "peking_duck": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 249.0,
+      "protein_g": 3.3,
+      "fat_g": 0.92,
+      "carbs_g": 63.9,
+      "fiber_g": 9.8
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Figs, dried, uncooked (FDC ID: 746768)"
   },
   "pho": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "⚠️ No close match found — used logical estimates"
   },
   "pizza": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 26.62,
+      "protein_g": 2.85,
+      "fat_g": 0.62,
+      "carbs_g": 2.41,
+      "fiber_g": 1.56
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Spinach, baby (FDC ID: 1999632)"
   },
   "pork_chop": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 138.28,
+      "protein_g": 22.8,
+      "fat_g": 5.48,
+      "carbs_g": -0.56,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Pork, chop, center cut, raw (FDC ID: 2727575)"
   },
   "poutine": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 385.0,
+      "protein_g": 11.9,
+      "fat_g": 6.6,
+      "carbs_g": 69.5,
+      "fiber_g": 6.3
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, quinoa (FDC ID: 2512372)"
   },
   "prime_rib": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 57.35,
+      "protein_g": 1.01,
+      "fat_g": 0.19,
+      "carbs_g": 12.9,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Raspberries, raw (FDC ID: 2346410)"
   },
   "pulled_pork_sandwich": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 228.7,
+      "protein_g": 17.8,
+      "fat_g": 17.5,
+      "carbs_g": 0.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Pork, ground, raw (FDC ID: 2514745)"
   },
   "ramen": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 343.68,
+      "protein_g": 2.02,
+      "fat_g": 35.6,
+      "carbs_g": 3.8,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cream, heavy (FDC ID: 2346386)"
   },
   "ravioli": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 31.0,
+      "protein_g": 2.57,
+      "fat_g": 0.34,
+      "carbs_g": 6.27,
+      "fiber_g": 2.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Broccoli, raw (FDC ID: 747447)"
   },
   "red_velvet_cake": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+      "kcal": 421.05,
+      "protein_g": 2.11,
+      "fat_g": 25.26,
+      "carbs_g": 45.26,
+      "fiber_g": 0.00
+    }
   },
   "risotto": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 360.59,
+      "protein_g": 8.11,
+      "fat_g": 0.95,
+      "carbs_g": 79.9,
+      "fiber_g": 5.4
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Flour, potato (FDC ID: 2261422)"
   },
   "samosa": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 625.9,
+      "protein_g": 21.5,
+      "fat_g": 51.1,
+      "carbs_g": 20.0,
+      "fiber_g": 10.8
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Nuts, almonds, whole, raw (FDC ID: 2346393)"
   },
   "sashimi": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 30.2,
+      "protein_g": 3.09,
+      "fat_g": 0.2,
+      "carbs_g": 4.01,
+      "fiber_g": 1.78
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, crimini (FDC ID: 2003601)"
   },
   "scallops": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 27.6,
+      "protein_g": 1.64,
+      "fat_g": 0.24,
+      "carbs_g": 4.72,
+      "fiber_g": 1.95
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cauliflower, raw (FDC ID: 2685573)"
   },
   "seaweed_salad": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 36.38,
+      "protein_g": 0.64,
+      "fat_g": 0.22,
+      "carbs_g": 7.96,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Strawberries, raw (FDC ID: 2346409)"
   },
   "shrimp_and_grits": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 37.63,
+      "protein_g": 2.2,
+      "fat_g": 0.27,
+      "carbs_g": 6.6,
+      "fiber_g": 3.07
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, maitake (FDC ID: 2003602)"
   },
   "spaghetti_bolognese": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 88.16,
+      "protein_g": 0.79,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Squash, spaghetti, peeled, seeded, raw (FDC ID: 2727579)"
   },
   "spaghetti_carbonara": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 186.0,
+      "protein_g": 1.41,
+      "fat_g": 1.48,
+      "carbs_g": 8.05,
+      "fiber_g": 1.8
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Sauce, pasta, spaghetti/marinara, ready-to-serve (FDC ID: 332282)"
   },
   "spring_rolls": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 46.43,
+      "protein_g": 2.41,
+      "fat_g": 0.31,
+      "carbs_g": 8.5,
+      "fiber_g": 3.01
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, king oyster (FDC ID: 2003599)"
   },
   "steak": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 37.63,
+      "protein_g": 2.2,
+      "fat_g": 0.27,
+      "carbs_g": 6.6,
+      "fiber_g": 3.07
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, maitake (FDC ID: 2003602)"
   },
   "strawberry_shortcake": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 36.38,
+      "protein_g": 0.64,
+      "fat_g": 0.22,
+      "carbs_g": 7.96,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Strawberries, raw (FDC ID: 2346409)"
   },
   "sushi": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 44.4,
+      "protein_g": 2.42,
+      "fat_g": 0.24,
+      "carbs_g": 8.14,
+      "fiber_g": 2.94
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Mushroom, enoki (FDC ID: 2003600)"
   },
   "tacos": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 597.8,
+      "protein_g": 20.5,
+      "fat_g": 45.0,
+      "carbs_g": 27.7,
+      "fiber_g": 6.97
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Nuts, pistachio nuts, raw (FDC ID: 2515379)"
   },
   "takoyaki": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 20.19,
+      "protein_g": 1.02,
+      "fat_g": 0.23,
+      "carbs_g": 3.51,
+      "fiber_g": 1.26
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Cabbage, bok choy, raw (FDC ID: 2685572)"
   },
   "tiramisu": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 36.38,
+      "protein_g": 0.64,
+      "fat_g": 0.22,
+      "carbs_g": 7.96,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Strawberries, raw (FDC ID: 2346409)"
   },
   "tuna_tartare": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 27.6,
+      "protein_g": 2.91,
+      "fat_g": 0.6,
+      "carbs_g": 2.64,
+      "fiber_g": 1.59
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Spinach, mature (FDC ID: 1999633)"
   },
   "waffles": {
-    "serving_g": null,
+    "serving_g": 100,
     "per_serving": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
+      "kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carbs_g": 10.0,
+      "fiber_g": 2.0
     },
-    "per_100g": {
-      "kcal": null,
-      "protein_g": null,
-      "fat_g": null,
-      "carbs_g": null,
-      "fiber_g": null
-    },
-    "notes": "Fill values or replace with verified nutrients.json"
+    "notes": "Matched to: Oil, safflower (FDC ID: 1750350)"
   }
 }
